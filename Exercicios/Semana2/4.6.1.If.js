@@ -2,3 +2,9 @@
 //Use a váriavel abaixo:
 
 const ExMelhorProjeto = true;
+
+if(ExMelhorProjeto){
+    console.log('eh verdade');
+} else {
+    console.log('eh mentira')
+}
